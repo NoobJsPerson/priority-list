@@ -1,0 +1,15 @@
+.parent {
+	height: 100%;
+	margin: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.container {
+	border: #6b6b6b 1px solid;
+	border-radius: 10px;
+}
+
+html {
+	height: 100%;
+}
